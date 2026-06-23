@@ -10,7 +10,7 @@ This project is being built as a production-oriented AI Engineering project focu
 
 ## Current Status
 
-🚧 Project Under Active Development
+🚧 Project Under Active Development (CODE IN MASTER BRANCH)
 
 This repository will be updated incrementally as new components are implemented.
 
