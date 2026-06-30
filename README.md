@@ -317,40 +317,6 @@ External AI Services
 
 ---
 
-# 📸 Screenshots
-
-> Add screenshots here
-
-### Home Screen
-
-*(Add Image)*
-
----
-
-### Live Conversation
-
-*(Add Image)*
-
----
-
-### Appointment Booking
-
-*(Add Image)*
-
----
-
-### Google Calendar Event
-
-*(Add Image)*
-
----
-
-# 🎥 Demo Video
-
-> Add YouTube / Loom link here
-
----
-
 # 🎯 Why I Built This
 
 Traditional chatbots are limited to text-based interactions.
